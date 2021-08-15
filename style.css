@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(45deg,coral,lightgreen,coral);
+    text-align: center;
+    font-family: "comic sans ms",sans-serif;
+}
+h1{
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+   background: linear-gradient(45deg,red,black,red);
+   color: white;
+   padding: 10px;
+   border-radius: 50%;
+   width: 800px;
+   margin: auto; 
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
